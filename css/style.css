@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.screen-show{
+    height: 500px;
+    background-color:  ghost white;
+}
+.screen-update{
+    height: 200px;
+    background-color:lavender;
+}
+
+table{
+    width: 100%;
+}
+tr:hover{
+    background-color: rgb(5, 255, 59);
+}
+
+.form{
+    margin: 10px;
+    display: flex;
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    /* background-color: aqua; */
+}
+input{
+    width: 300px;
+}
+
+.message-err{
+    color: red;
+    margin-left: 10px;
+    font-family: monospace;
+}
+.screen-update button{
+    margin-left: 110px;
+    width: 150px;
+}

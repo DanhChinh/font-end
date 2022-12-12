@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Doan Van Hau",
+      "address": "Ha Noi",
+      "phone": "093863674",
+      "email": "vanhau123@gmail.com"
+    },
+    {
+      "fullname": "Nguyen Quang Hai",
+      "address": "Ha Noi",
+      "phone": "09083874747",
+      "email": "haicoin29@gmail.com",
+      "id": 2
+    },
+    {
+      "fullname": "Phan Tuan Anh",
+      "address": "Thai Binh",
+      "phone": "09238237",
+      "email": "TuanAnh12@gmail.com",
+      "id": 3
+    }
+  ]
+}
